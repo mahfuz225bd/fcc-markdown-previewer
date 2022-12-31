@@ -50,9 +50,7 @@ class App extends Component {
             <MarkdownOutput>{this.state.code}</MarkdownOutput>
           </section>
         </main>
-        <footer>by <a href="http://github.com/mahfuz225bd" target="_blank" rel="noreferrer">Muhammad Sultan
-          Al Mahfuz</a>.
-        </footer>
+        <footer>by <a href="http://codepen.io/mahfuz225bd" target="_blank" rel="noreferrer">Muhammad Sultan Al Mahfuz</a>. <a href="https://github.com/mahfuz225bd/fcc-markdown-previewer" target="_blank" rel="noreferrer">GitHub Source Code</a>.</footer>
       </div>
     )
   }
